@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
     <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
         <navigation display_value="StoreKIT">a0ea8b152fa32010aa9eb6a62799b62a</navigation>
-        <navigation_tab display_value="Store">b57b47152fa32010aa9eb6a62799b6a5</navigation_tab>
+        <navigation_tab display_value="Branch">b57b47152fa32010aa9eb6a62799b6a5</navigation_tab>
         <order>30</order>
         <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
         <sys_created_by>admin</sys_created_by>

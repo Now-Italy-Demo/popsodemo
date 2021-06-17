@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Contract">f55d1519dbb0f010306384735b9619dd</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Show contract</label>
+        <location>footer</location>
+        <name>Show contract</name>
+        <order>20</order>
+        <parent>28f639db2f632010aa9eb6a62799b67c</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-16 10:21:50</sys_created_on>
+        <sys_id>80fd9595dbb07010d775d3f3ca961952</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Show contract</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_button_instance_80fd9595dbb07010d775d3f3ca961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-16 10:26:16</sys_updated_on>
+        <table>x_134851_storekit_special_offer</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=80fd9595dbb07010d775d3f3ca961952"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>6cf91a56db1214105749cac505961940</instance_id>
+        <instance_name>popsodemo</instance_name>
+        <name>sys_sg_button_instance_80fd9595dbb07010d775d3f3ca961952</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Contract">f55d1519dbb0f010306384735b9619dd</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Show contract</label><location>footer</location><name>Show contract</name><order>20</order><parent>28f639db2f632010aa9eb6a62799b67c</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-16 10:21:50</sys_created_on><sys_id>80fd9595dbb07010d775d3f3ca961952</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Show contract</sys_name><sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package><sys_policy/><sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope><sys_update_name>sys_sg_button_instance_80fd9595dbb07010d775d3f3ca961952</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-16 10:26:16</sys_updated_on><table>x_134851_storekit_special_offer</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=80fd9595dbb07010d775d3f3ca961952"/></record_update>]]></payload>
+        <payload_hash>-586537220</payload_hash>
+        <record_name>Show contract</record_name>
+        <reverted_from/>
+        <source>82a7bcfedba030d0d775d3f3ca961902</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-16 10:26:16</sys_created_on>
+        <sys_id>cdfe1119dbb07010d775d3f3ca961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a145b77ab0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-16 10:26:16</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>45fe11192db070107f61c412fb6f8b86</update_guid>
+        <update_guid_history>45fe11192db070107f61c412fb6f8b86:-586537220,c4fd9595fcb070104e27f00522b75055:-1594560786</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-16 10:26:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>2f68f3bcf12147f4a8b29c748d036104</sys_id>
+        <sys_metadata>80fd9595dbb07010d775d3f3ca961952</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show contract</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_80fd9595dbb07010d775d3f3ca961952</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_80fd9595dbb07010d775d3f3ca961952">cdfe1119dbb07010d775d3f3ca961986</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-16 10:26:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

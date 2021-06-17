@@ -5,7 +5,7 @@
         <interleave>true</interleave>
         <name>StoreKIT - Search Customer</name>
         <placeholder>Search customer</placeholder>
-        <search_context_config display_value="StoreKIT Customer Search">0396d3e92fa32010aa9eb6a62799b610</search_context_config>
+        <search_context_config display_value="">0396d3e92fa32010aa9eb6a62799b610</search_context_config>
         <sys_class_name>sys_sg_global_search</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-16 11:06:27</sys_created_on>

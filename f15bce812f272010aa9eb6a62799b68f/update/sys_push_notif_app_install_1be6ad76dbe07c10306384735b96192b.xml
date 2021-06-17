@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <last_registered_on>2021-06-09 05:33:56</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-08 16:36:17</sys_created_on>
+        <sys_id>1be6ad76dbe07c10306384735b96192b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>27C93A9A78186F8B35BE938FC1574BD575BC27E6C575C4F6F2EB339C5652BF28</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Request Application">ac7f61d273122300d63a566a4cf6a78b</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_1be6ad76dbe07c10306384735b96192b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-09 05:34:12</sys_updated_on>
+        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>27C93A9A78186F8B35BE938FC1574BD575BC27E6C575C4F6F2EB339C5652BF28</token>
+    </sys_push_notif_app_install>
+</record_update>

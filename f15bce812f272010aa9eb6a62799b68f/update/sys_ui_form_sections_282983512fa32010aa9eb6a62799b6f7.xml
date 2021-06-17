@@ -10,7 +10,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sn_customerservice_appointment" name="sn_customerservice_appointment" sys_domain="global" view="Default view">282983512fa32010aa9eb6a62799b6f7</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="sn_customerservice_appointment" sys_domain="global" view="Default view">ac2983912fa32010aa9eb6a62799b628</sys_ui_section>
+            <sys_ui_section display_value="">ac2983912fa32010aa9eb6a62799b628</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2021-04-15 14:51:42</sys_updated_on>
         </sys_ui_form_section>
@@ -24,7 +24,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sn_customerservice_appointment" name="sn_customerservice_appointment" sys_domain="global" view="Default view">282983512fa32010aa9eb6a62799b6f7</sys_ui_form>
-            <sys_ui_section caption="Configuration" display_value="Configuration" name="sn_customerservice_appointment" sys_domain="global" view="Default view">a42983912fa32010aa9eb6a62799b62c</sys_ui_section>
+            <sys_ui_section display_value="">a42983912fa32010aa9eb6a62799b62c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2021-04-15 14:51:42</sys_updated_on>
         </sys_ui_form_section>
@@ -38,7 +38,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sn_customerservice_appointment" name="sn_customerservice_appointment" sys_domain="global" view="Default view">282983512fa32010aa9eb6a62799b6f7</sys_ui_form>
-            <sys_ui_section caption="Content" display_value="Content" name="sn_customerservice_appointment" sys_domain="global" view="Default view">242983912fa32010aa9eb6a62799b623</sys_ui_section>
+            <sys_ui_section display_value="">242983912fa32010aa9eb6a62799b623</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2021-04-15 14:51:42</sys_updated_on>
         </sys_ui_form_section>

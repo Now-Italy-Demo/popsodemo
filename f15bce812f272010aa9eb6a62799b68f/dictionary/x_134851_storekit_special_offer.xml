@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Special Offer" max_length="40" name="x_134851_storekit_special_offer" sizeclass="3" type="collection">
+    <element label="Special Offer" max_length="40" name="x_134851_storekit_special_offer" sizeclass="2" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Contract" max_length="1000" name="contract" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer SYSID" max_length="100" name="customer_sysid" type="string"/>
         <element label="Description" max_length="8000" name="description" type="string"/>
         <element label="Fidelity Card" max_length="32" name="fidelity_card" reference="x_134851_storekit_fidelity_card" type="reference"/>
+        <element attributes="encode_utf8=false" label="Impacted Product" max_length="32" name="impacted_product" reference="sn_install_base_sold_product" type="reference"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Short Description" max_length="40" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contract Link" max_length="100" name="url" type="string"/>
         <element label="Valid to" max_length="40" name="valid_to" type="glide_date"/>
         <index name="index">
+            <element name="impacted_product"/>
+        </index>
+        <index name="index2">
             <element name="fidelity_card"/>
         </index>
     </element>

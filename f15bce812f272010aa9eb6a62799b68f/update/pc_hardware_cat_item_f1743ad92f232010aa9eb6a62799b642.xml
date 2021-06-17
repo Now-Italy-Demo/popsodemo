@@ -28,7 +28,7 @@
         <mobile_hide_price>false</mobile_hide_price>
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
-        <model display_value="ACME Corporation ACME Router RTX1000">ed2e4969bd43d010f8770a6c385af6e9</model>
+        <model display_value="">ed2e4969bd43d010f8770a6c385af6e9</model>
         <name>ACME Router RTX1000</name>
         <no_attachment_v2>false</no_attachment_v2>
         <no_cart>false</no_cart>
@@ -47,7 +47,7 @@
         <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
         <picture/>
         <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=f1743ad92f232010aa9eb6a62799b642&amp;sysparm_preview=true", "summary");</preview>
-        <price>152.4824</price>
+        <price>152.01</price>
         <product_id>RTX1000</product_id>
         <published_ref/>
         <recurring_frequency/>
@@ -79,7 +79,7 @@
         <type>item</type>
         <upc/>
         <use_sc_layout>true</use_sc_layout>
-        <vendor display_value="ACME Corporation">e7c1f3d53790200044e0bfc8bcbe5deb</vendor>
+        <vendor display_value="Solana Corporation">e7c1f3d53790200044e0bfc8bcbe5deb</vendor>
         <vendor_catalog_item/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>

@@ -5,7 +5,7 @@
         <group_by>kb_category</group_by>
         <instance_relative_url_qc/>
         <name>DI_News grouped</name>
-        <query_condition table="kb_knowledge">kb_knowledge_base=98ab17212fe32010aa9eb6a62799b692^active=true^valid_to&gt;=javascript:gs.beginningOfToday()^workflow_state=published<item display_table="kb_knowledge_base" display_value="StoreKIT" endquery="false" field="kb_knowledge_base" goto="false" newquery="false" operator="=" or="false" value="98ab17212fe32010aa9eb6a62799b692"/>
+        <query_condition table="kb_knowledge">kb_knowledge_base=98ab17212fe32010aa9eb6a62799b692^active=true^valid_to&gt;=javascript:gs.beginningOfToday()^workflow_state=published<item endquery="false" field="kb_knowledge_base" goto="false" newquery="false" operator="=" or="false" value="98ab17212fe32010aa9eb6a62799b692"/>
             <item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
             <item endquery="false" field="valid_to" goto="false" newquery="false" operator="&gt;=" or="false" value="javascript:gs.beginningOfToday()"/>
             <item display_value="Published" endquery="false" field="workflow_state" goto="false" newquery="false" operator="=" or="false" value="published"/>

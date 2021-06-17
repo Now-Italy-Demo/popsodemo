@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
     <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
         <click_in_mode>false</click_in_mode>
-        <context_config_id display_value="StoreKIT Customer Search">0396d3e92fa32010aa9eb6a62799b610</context_config_id>
+        <context_config_id display_value="">0396d3e92fa32010aa9eb6a62799b610</context_config_id>
         <limit>5</limit>
         <order>400</order>
         <section_header>Suggested Results</section_header>

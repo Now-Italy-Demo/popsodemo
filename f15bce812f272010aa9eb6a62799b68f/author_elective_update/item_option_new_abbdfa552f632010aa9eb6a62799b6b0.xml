@@ -156,7 +156,7 @@
         <update_guid_history>7b2eb295a66320106336dd7154966cab:-1091533494,a40efe55e1632010e4d2ef0840702790:758532623</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Consumer">f7aeba952f632010aa9eb6a62799b6f9</sys_audit_delete>
+        <sys_audit_delete display_value="">f7aeba952f632010aa9eb6a62799b6f9</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>max</sys_created_by>
         <sys_created_on>2021-04-15 14:06:03</sys_created_on>

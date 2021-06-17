@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot">
+    <sys_sg_view_template_slot action="DELETE">
+        <name>text_01</name>
+        <sys_class_name>sys_sg_view_template_slot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-10 16:57:18</sys_created_on>
+        <sys_id>e6eeb75fdb2c3050306384735b961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_01</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_view_template_slot_e6eeb75fdb2c3050306384735b961986</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-10 16:57:18</sys_updated_on>
+        <type>Text</type>
+        <view_template display_value="SK Client Offers Card">5a31661b2f272010aa9eb6a62799b68d</view_template>
+    </sys_sg_view_template_slot>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>6cf91a56db1214105749cac505961940</instance_id>
+        <instance_name>popsodemo</instance_name>
+        <name>sys_sg_view_template_slot_e6eeb75fdb2c3050306384735b961986</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot"><sys_sg_view_template_slot action="INSERT_OR_UPDATE"><name>text_01</name><sys_class_name>sys_sg_view_template_slot</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-10 16:57:18</sys_created_on><sys_id>e6eeb75fdb2c3050306384735b961986</sys_id><sys_mod_count>0</sys_mod_count><sys_name>text_01</sys_name><sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package><sys_policy/><sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope><sys_update_name>sys_sg_view_template_slot_e6eeb75fdb2c3050306384735b961986</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-10 16:57:18</sys_updated_on><type>Text</type><view_template display_value="SK Client Offers Card">5a31661b2f272010aa9eb6a62799b68d</view_template></sys_sg_view_template_slot></record_update>]]></payload>
+        <payload_hash>-416460047</payload_hash>
+        <record_name>text_01</record_name>
+        <reverted_from/>
+        <source>82a7bcfedba030d0d775d3f3ca961902</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-10 16:57:19</sys_created_on>
+        <sys_id>66eeb75fdb2c3050306384735b961988</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179f6db51a50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-10 16:57:19</sys_updated_on>
+        <type>View Template Slot</type>
+        <update_guid>6eeeb75fa02c30504d13760ad9e47487</update_guid>
+        <update_guid_history>6eeeb75fa02c30504d13760ad9e47487:-416460047</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-10 16:58:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_template_slot">sys_sg_view_template_slot</sys_db_object>
+        <sys_id>15ef34614048446b909e05c26c0e6841</sys_id>
+        <sys_metadata>e6eeb75fdb2c3050306384735b961986</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_01</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>sys_sg_view_template_slot_e6eeb75fdb2c3050306384735b961986</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_template_slot_e6eeb75fdb2c3050306384735b961986">66eeb75fdb2c3050306384735b961988</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-10 16:58:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

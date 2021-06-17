@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Increase Credit Card Limit">d0e0c423db6c3050306384735b961920</button>
+        <item_parameter display_value="customer">64c97b78db74f810d775d3f3ca9619d4</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-15 08:57:24</sys_created_on>
+        <sys_id>a7f048c1dbb4f810d775d3f3ca96196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>64c97b78db74f810d775d3f3ca9619d4</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_a7f048c1dbb4f810d775d3f3ca96196c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-15 08:57:24</sys_updated_on>
+        <ui_parameter display_value="customer_sys_id">67308481dbb4f810d775d3f3ca96198d</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

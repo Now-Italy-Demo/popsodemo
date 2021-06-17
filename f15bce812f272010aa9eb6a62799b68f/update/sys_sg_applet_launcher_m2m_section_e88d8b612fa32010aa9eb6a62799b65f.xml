@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
-        <applet_launcher display_value="Clients">c86ac7d12fa32010aa9eb6a62799b6c5</applet_launcher>
+        <applet_launcher display_value="Customers">c86ac7d12fa32010aa9eb6a62799b6c5</applet_launcher>
         <order>20</order>
         <section display_value="Appointments">208d8b612fa32010aa9eb6a62799b65d</section>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>

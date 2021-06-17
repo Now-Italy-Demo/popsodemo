@@ -29,19 +29,19 @@
         <source>539824322f322010aa9eb6a62799b666</source>
         <source_table>sys_upgrade_history</source_table>
         <state>previous</state>
-        <sys_created_by/>
+        <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-03-13 12:14:11</sys_created_on>
         <sys_id>1d32c3992f632010aa9eb6a62799b6f1</sys_id>
-        <sys_mod_count/>
+        <sys_mod_count>0</sys_mod_count>
         <sys_recorded_at>1782b821e380000000</sys_recorded_at>
-        <sys_updated_by/>
-        <sys_updated_on/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-08 13:09:04</sys_updated_on>
         <type>Catalog Item Not Available for</type>
         <update_guid>d932c399c26320102c9218fbb54042f1</update_guid>
         <update_guid_history>d932c399c26320102c9218fbb54042f1:1726606328</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Schedule an appointment.SNC External">5532c3992f632010aa9eb6a62799b6f4</sys_audit_delete>
+        <sys_audit_delete display_value="">5532c3992f632010aa9eb6a62799b6f4</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>max</sys_created_by>
         <sys_created_on>2021-04-15 14:21:26</sys_created_on>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template">
+    <sys_sg_view_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Card pe offers</description>
+        <name>SK Client Offers Card</name>
+        <preview_image/>
+        <root_view_attrs_json/>
+        <sys_class_name>sys_sg_view_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-21 17:05:11</sys_created_on>
+        <sys_id>5a31661b2f272010aa9eb6a62799b68d</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>SK Client Offers Card</sys_name>
+        <sys_package display_value="Field Service Mobile" source="sn_fsm_mobile">5d66b0fbe770230003cd6188d2f6a976</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_view_template_5a31661b2f272010aa9eb6a62799b68d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-10 16:58:47</sys_updated_on>
+        <template_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Id":"Root","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Id":"viewgroup_01","Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"bold","Size":18},"MaxLines":1,"CellId":"text_03","Id":"text_03"}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Id":"viewgroup_02","Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"CellId":"text_04","Id":"text_04"}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"viewgroup_03","Margin":{"Right":2},"Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"TextAlignment":"Right","CellId":"text_01","Id":"text_01"},{"Type":"Text","TextColor":"#C83C36","Font":{"Weight":"regular","Size":13},"MaxLines":1,"TextAlignment":"Right","CellId":"text_02","Id":"text_02"}]}]}</template_json>
+    </sys_sg_view_template>
+</record_update>

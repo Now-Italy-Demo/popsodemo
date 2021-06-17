@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description>Search products by text</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>on_demand</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Search">55f4fe692fbb6010aa9eb6a62799b6bb</icon>
+        <name>Search Cards</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-28 18:17:43</sys_created_on>
+        <sys_id>11f4fe692fbb6010aa9eb6a62799b6bf</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Search Cards</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_list_screen_11f4fe692fbb6010aa9eb6a62799b6bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-15 13:55:17</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=11f4fe692fbb6010aa9eb6a62799b6bf"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</application>
+        <file_path/>
+        <instance_id>6cf91a56db1214105749cac505961940</instance_id>
+        <instance_name>popsodemo</instance_name>
+        <name>sys_sg_list_screen_11f4fe692fbb6010aa9eb6a62799b6bf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description>Search products by text</description><dynamic_prefetch_count/><empty_state/><fetch_type>on_demand</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Search">55f4fe692fbb6010aa9eb6a62799b6bb</icon><name>Search Cards</name><roles_override/><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-28 18:17:43</sys_created_on><sys_id>11f4fe692fbb6010aa9eb6a62799b6bf</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Search Cards</sys_name><sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package><sys_policy/><sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope><sys_update_name>sys_sg_list_screen_11f4fe692fbb6010aa9eb6a62799b6bf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-15 13:55:17</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=11f4fe692fbb6010aa9eb6a62799b6bf"/></record_update>]]></payload>
+        <payload_hash>-773614400</payload_hash>
+        <record_name>Search Cards</record_name>
+        <reverted_from/>
+        <source>82a7bcfedba030d0d775d3f3ca961902</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-15 13:55:17</sys_created_on>
+        <sys_id>cd358901db3cf810d775d3f3ca9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a0ff4785d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-15 13:55:17</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>c13589012c3cf8105c3a6a9943df2314</update_guid>
+        <update_guid_history>c13589012c3cf8105c3a6a9943df2314:-773614400,a757f872d1e030d051330d3000880e70:-2106563434</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-16 11:06:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>2f987763622747999507e8fee78bf2d1</sys_id>
+        <sys_metadata>11f4fe692fbb6010aa9eb6a62799b6bf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search Cards</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_scope_delete display_value="">0d898bf3e6634644a1482afa16c3d490</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_11f4fe692fbb6010aa9eb6a62799b6bf</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_11f4fe692fbb6010aa9eb6a62799b6bf">cd358901db3cf810d775d3f3ca9619a9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-16 11:06:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

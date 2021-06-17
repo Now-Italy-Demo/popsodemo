@@ -6,7 +6,7 @@
         <headline/>
         <hide_header>false</hide_header>
         <hide_section_if_empty>false</hide_section_if_empty>
-        <image_attachment display_value="BANNERstarwars3.jpeg" sys_id="1a9344ba2fa72010aa9eb6a62799b6e3">1a9344ba2fa72010aa9eb6a62799b6e3</image_attachment>
+        <image_attachment display_value="">1a9344ba2fa72010aa9eb6a62799b6e3</image_attachment>
         <orientation>horizontal</orientation>
         <required_roles/>
         <sys_class_name>sys_sg_media_section</sys_class_name>

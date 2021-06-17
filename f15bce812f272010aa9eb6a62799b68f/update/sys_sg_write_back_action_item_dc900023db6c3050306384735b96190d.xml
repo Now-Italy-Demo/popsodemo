@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Increase Credit Card Limit</name>
+        <parameter_screen/>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-10 17:05:24</sys_created_on>
+        <sys_id>dc900023db6c3050306384735b96190d</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Increase Credit Card Limit</sys_name>
+        <sys_package display_value="StoreKIT" source="x_134851_storekit">f15bce812f272010aa9eb6a62799b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="StoreKIT">f15bce812f272010aa9eb6a62799b68f</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_dc900023db6c3050306384735b96190d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-15 13:30:41</sys_updated_on>
+        <table>sn_bom_credit_card_service</table>
+        <template>short_description=Increase Credit Limit^consumer={{customer}}^description= Requested limit amount is 3.000,00 EUR&#13;
+^sold_product={{id_card_number}}^service_definition=952a8d2ec3302010851bdb85a840dd19^contact_type=in_person^req_limit_amount=javascript:global.getCurrencyFilter('sn_bom_credit_card_service','req_limit_amount', 'USD;3000')^duration=0^state=1^EQ</template>
+        <type>new</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=dc900023db6c3050306384735b96190d"/>
+</record_update>

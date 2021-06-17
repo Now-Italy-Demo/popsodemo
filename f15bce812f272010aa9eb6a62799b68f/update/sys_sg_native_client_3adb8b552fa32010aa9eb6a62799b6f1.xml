@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_native_client">
     <sys_sg_native_client action="INSERT_OR_UPDATE">
-        <client_theme display_value="Bata Colors">3dbd629adb14f4108d07d2984b961956</client_theme>
+        <client_theme display_value="Popso Colors">3dbd629adb14f4108d07d2984b961956</client_theme>
         <empty_state/>
         <force_local_login>false</force_local_login>
         <geolocation_enabled>false</geolocation_enabled>

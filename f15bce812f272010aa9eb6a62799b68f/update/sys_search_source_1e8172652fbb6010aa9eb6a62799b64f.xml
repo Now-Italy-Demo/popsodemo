@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
     <sys_search_source action="INSERT_OR_UPDATE">
         <active>false</active>
-        <condition table="alm_asset">model_category=3a29ac802fb72010aa9eb6a62799b6bb^EQ<item display_table="cmdb_model_category" display_value="StoreKIT Retail" endquery="false" field="model_category" goto="false" newquery="false" operator="=" or="false" value="3a29ac802fb72010aa9eb6a62799b6bb"/>
+        <condition table="alm_asset">model_category=3a29ac802fb72010aa9eb6a62799b6bb^EQ<item endquery="false" field="model_category" goto="false" newquery="false" operator="=" or="false" value="3a29ac802fb72010aa9eb6a62799b6bb"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <name>StoreKIT ALM_ASSET</name>
